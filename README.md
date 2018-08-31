@@ -10,10 +10,16 @@ If you think a package should be added, please add a :+1: (`:+1:`) at the accord
 ## Gateways
 *Libraries that add new Gateways to the KlasaClient instance*
 
-* [member-gateway](https://github.com/dirigeants/klasa-member-gateway) - Adds per member settings
-* [textchannel-gateway](https://github.com/1Conan/klasa-textchannel-gateway) - Adds per textchannel settings
+* 🌠 [klasa-member-gateway](https://github.com/dirigeants/klasa-member-gateway) - Simple plugin to manage an efficient per-member settings gateway.
+* [klasa-textchannel-gateway](https://github.com/1Conan/klasa-textchannel-gateway) - Adds per textchannel settings
 
 ## Libraries
 *Libraries that add extra functionality to the KlasaClient*
 
-* [klasa-dashboard-hooks](https://github.com/dirigeants/klasa-dashboard-hooks)
+* 🌠 [klasa-dashboard-hooks](https://github.com/dirigeants/klasa-dashboard-hooks) - Simple plugin to expose an api from a klasa bot.
+
+## Legend
+
+| Icon | Description      |
+| :--: | ---------------- |
+| 🌠   | Official Library |
