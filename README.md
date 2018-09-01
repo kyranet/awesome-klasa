@@ -17,6 +17,7 @@ If you think a package should be added, please add a :+1: (`:+1:`) at the accord
 *Libraries that add extra functionality to the KlasaClient*
 
 * 🌠 [klasa-dashboard-hooks](https://github.com/dirigeants/klasa-dashboard-hooks) - Simple plugin to expose an api from a klasa bot.
+* [klasa-rawevents-plugin](https://github.com/QuantumPlugin/klasa-rawevents-plugin) - Simple plugin to handle raw events with ease.
 
 ## Legend
 
