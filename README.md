@@ -5,7 +5,10 @@ If you think a package should be added, please add a :+1: (`:+1:`) at the accord
 
 - [Awesome Klasa](#awesome-klasa)
     - [Gateways](#gateways)
-	- [Libraries](#libraries)
+    - [Libraries](#libraries)
+    - [Tools](#tools)
+    
+*We also have [klasa-pieces](https://github.com/dirigeants/klasa-pieces), a repository where the community can create pieces that can be added to any Klasa bot.*
 
 ## Gateways
 *Libraries that add new Gateways to the KlasaClient instance*
@@ -16,9 +19,15 @@ If you think a package should be added, please add a :+1: (`:+1:`) at the accord
 ## Libraries
 *Libraries that add extra functionality to the KlasaClient*
 
-* 🌠 [klasa-dashboard-hooks](https://github.com/dirigeants/klasa-dashboard-hooks) - Simple plugin to expose an api from a klasa bot.
-* [klasa-functions-plugin](https://github.com/QuantumPlugin/klasa-functions-plugin) - A basic plugin which adds a functions store to klasa
+* 🌠 [klasa-dashboard-hooks](https://github.com/dirigeants/klasa-dashboard-hooks) - Simple plugin to expose an api from a Klasa bot.
+* [klasa-functions-plugin](https://github.com/QuantumPlugin/klasa-functions-plugin) - A basic plugin which adds a functions store to Klasa.
 * [klasa-rawevents-plugin](https://github.com/QuantumPlugin/klasa-rawevents-plugin) - Simple plugin to handle raw events with ease.
+
+## Tools
+*Tools that aid in the development of Klasa or with Klasa*
+
+* 🌠 [klasa-vscode](https://github.com/dirigeants/klasa-vscode) - VSCode plugin that adds snippets and commands to ease development using Klasa.
+* 🌠 [klasa-lint](https://github.com/dirigeants/klasa-lint) - Shared eslint rules that are used in the development of Klasa and some of its tools / plugins
 
 ## Legend
 
