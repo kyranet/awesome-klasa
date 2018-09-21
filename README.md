@@ -22,6 +22,7 @@ If you think a package should be added, please add a :+1: (`:+1:`) at the accord
 * 🌠 [klasa-dashboard-hooks](https://github.com/dirigeants/klasa-dashboard-hooks) - Simple plugin to expose an api from a Klasa bot.
 * [klasa-functions-plugin](https://github.com/QuantumPlugin/klasa-functions-plugin) - A basic plugin which adds a functions store to Klasa.
 * [klasa-rawevents-plugin](https://github.com/QuantumPlugin/klasa-rawevents-plugin) - Simple plugin to handle raw events with ease.
+* [klasa-bot-plugin](https://github.com/Skillz4Killz/klasa-bot-plugin) - **All Purpose** plugin that add hundreds of features to your bot with a single line of code.
 
 ## Tools
 *Tools that aid in the development of Klasa or with Klasa*
