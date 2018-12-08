@@ -14,7 +14,7 @@ If you think a package should be added, please add a :+1: (`:+1:`) at the accord
 *Libraries that add new Gateways to the KlasaClient instance*
 
 * 🌠 [klasa-member-gateway](https://github.com/dirigeants/klasa-member-gateway) - Simple plugin to manage an efficient per-member settings gateway.
-* [klasa-textchannel-gateway](https://github.com/1Conan/klasa-textchannel-gateway) - Adds per textchannel settings
+* [klasa-textchannel-gateway](https://github.com/KlasaCommunityPlugins/textchannel-gateway) - Adds per text channel settings
 
 ## Libraries
 *Libraries that add extra functionality to the KlasaClient*
